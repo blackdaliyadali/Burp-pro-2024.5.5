@@ -1,8 +1,8 @@
-![Screenshot_2024-09-19_17_45_09](https://github.com/user-attachments/assets/873ef98a-48e0-445b-b5dc-eb5959ad5b34)
+
 
 <div align="center">
 
-# $${\color{orange}Burpsuite-Professional-v2026-latest}$$
+# $${\color{green}Burpsuite-Professional-v202x}$$
 </div>
 
 <p align="center"> Burp Suite Professional is the web security tester's toolkit of choice. Use it to automate repetitive testing tasks - then dig deeper with its expert-designed manual and semi-automated security testing tools. Burp Suite Professional can help you to test for OWASP Top 10 vulnerabilities - as well as the very latest hacking techniques. Advanced manual and automated features empower users to find lurking vulnerabilities more quickly. Burp Suite is designed and used by the industry's best.</p>
@@ -15,7 +15,7 @@
 <br>
 <br>
 
-#  $${\color{magenta}Linux-Installation}$$
+#  $${\color{red}Linux-Installation}$$
 ```sh
 sudo apt update && sudo apt install -y wget && wget -qO- https://raw.githubusercontent.com/xiv3r/Burpsuite-Professional/main/install.sh | sudo bash
 ```
@@ -42,7 +42,7 @@ sudo update-alternatives --config java
 
 <div align="center">
  
-https://github.com/xiv3r/Burpsuite-Professional/assets/117867334/c25831a4-68a2-44ee-b6dd-5ff18165f340
+
 </div>
  
 Note: Copy the license from loader to the burpsuite > manual activation > copy burpsuite request key to loader request >  copy response key to the burpsuite.
@@ -108,7 +108,7 @@ NOTE: `loader.jar` is symlinked to `burpsuite.jar` so burpsuite recognizes the l
 
 ----------
 
-# $${\color{magenta}Windows-Installation}$$
+# $${\color{red}Windows-Installation}$$
  
 - Make a `Burp` directory name in `C Drive` for faster access.
 
@@ -145,7 +145,7 @@ NOTE: `loader.jar` is symlinked to `burpsuite.jar` so burpsuite recognizes the l
 
 ------------
 
-# $${\color{magenta}MacOS-Installation}$$ 
+# $${\color{red}MacOS-Installation}$$ 
 
 ## Step 1: Install Dependencies with Homebrew
 Install Homebrew and required dependencies (`git`, `openjdk@17`).
